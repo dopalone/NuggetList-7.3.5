@@ -14,3 +14,5 @@ You can import and export the list between your friends freely as well, it doesn
 It also auto sells gray items whenever you hit a vendor and auto-types 'delete' when you try to delete an epic quality+ item.
 
 Works with 5.4.8 as well as 7.3.5 clients.
+<img width="403" height="453" alt="2" src="https://github.com/user-attachments/assets/049c8701-bad7-444c-839c-ab4caaece505" />
+<img width="449" height="20" alt="3" src="https://github.com/user-attachments/assets/c7f764e0-7c44-4ad3-a1e6-2909f6ccbb86" />
