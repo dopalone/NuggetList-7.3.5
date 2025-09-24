@@ -1,8 +1,0 @@
-## Interface: 30300
-## Title: NuggetList
-## Notes: Lightweight whitelist/blacklist addon with an import/export function, auto complete 'Delete' text and auto sell junk.
-## Author: Dopalone
-## Version: 0.1
-## SavedVariables: NuggetListDB
-
-NuggetList.lua
