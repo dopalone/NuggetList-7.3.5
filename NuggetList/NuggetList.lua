@@ -5,10 +5,8 @@ local function Media(path) return "Interface\\AddOns\\NuggetList\\Media\\" .. pa
 local PANEL_BG = Media("bg.tga")
 local BUTTON_NORMAL = Media("button.tga")
 local BUTTON_HOVER = Media("button_hover.tga")
-local EDIT_BG = Media("editbg.tga")
 local SCROLL_TRACK = Media("scrollbar_track.tga")
 local SCROLL_THUMB = Media("scrollbar_thumb.tga")
-
 local FONT = GameFontNormal:GetFont() 
 local TITLE_FONT_SIZE = 14
 local BODY_FONT_SIZE = 12
@@ -523,3 +521,4 @@ frame:SetScript("OnEvent", function(self, event, addon)
         for _, ev in ipairs(chatEvents) do ChatFrame_AddMessageEventFilter(ev, AddNuggetIconToChat) end
     end
 end)
+
