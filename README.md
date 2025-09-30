@@ -16,4 +16,4 @@ It also auto sells gray items whenever you hit a vendor and auto-types 'delete' 
 
 Works with 5.4.8 as well as 7.3.5 clients.
 
-![NL](/NLX.PNG)
+![NL](/NLX.png)
